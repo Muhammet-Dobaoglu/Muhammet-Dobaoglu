@@ -13,7 +13,7 @@
 
 - 👀 I’m Interested In Mobile and Web Developer
 
-- 🌱 I’m Currently Learning HTML CSS JS REACT
+- 🌱 I’m Currently Learning HTML CSS JS REACT Fluent API OOP
 
 - 📫 How to Reach Me muhammetdobaoglu@hotmail.com
 
