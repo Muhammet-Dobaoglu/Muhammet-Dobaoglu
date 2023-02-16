@@ -1,40 +1,44 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
+ <h1 align="center">Hi There! I'm Muhammet Dobaoğlu</h1>
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=30&center=true&color=FF5F1F&multiline=true&width=1200&lines=Software+Developer+-+Electrical+%26+Electronics+Engineer)](https://git.io/typing-svg)
+</br></br>
+
+</h3>
 
 
-<img src="https://user-images.githubusercontent.com/106467744/202533237-5a5cab63-47f2-4275-baf5-0e1963ed6d89.gif" >
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://temforce.net/wp-content/uploads/2019/07/WOMAN-ALPHA.gif">
+</a>
 
+### 👩🏼‍💻 About Me 
+✨ Hi, I’m MUHAMMET DOBAOĞLU
 
+✨ I earned a BSc degree in electrical and electronics engineering in 2020.
 
+✨ I started learning with C# and .NET technologies
 
-    ⚛ Hi there 👋
+✨ I’m Currently Learning JavaScript TypeScript React Angular Fluent API OOP
 
+✨ Reach Me muhammetdobaoglu@hotmail com
 
- <img src="https://user-images.githubusercontent.com/106467744/203623182-efbebf4c-109b-4981-ba1c-b3a4451f3096.gif"  width="250" height="250"  >
+### Languages, Frameworks & Tools
 
-👋 Hi, I’m MUHAMMET DOBAOĞLU <p ></p>
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?&theme=light&i=dotnet,cs,js,jquery,react,html,css,git,github,postgres"/>
+    <img height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  </a>
+</p>
 
-👀 I’m Interested In Mobile and Web Developer 
+### Contact & Social
+<h3 align="center">
+ <a href="https://www.linkedin.com/in/muhammet-dobaoglu">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+ </a>
+ 
+</h3>
 
-🌱 I’m Currently Learning HTML CSS JS REACT Fluent API OOP 
-
-📫 How to Reach Me muhammetdobaoglu@hotmail com
-
-<br/>
-
-     SKILLS AND EXPERIENCES 👋
-
-
-
-   <img src="https://user-images.githubusercontent.com/106467744/201714690-4f3f7d70-df54-4f08-ab84-f2496300ff56.png"  >  
-    
-
-
-
-
-
-
-
-
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+ 
