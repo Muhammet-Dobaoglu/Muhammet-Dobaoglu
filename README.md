@@ -19,7 +19,7 @@
 
 ✨ I started learning with C# and .NET technologies
 
-✨ I’m Currently Learning JavaScript TypeScript React Angular Fluent API OOP
+✨ I’m Currently Learning JavaScript TypeScript React Angular Fluent API Flutter Docker OOP
 
 ✨ Reach Me muhammetdobaoglu@hotmail com
 
