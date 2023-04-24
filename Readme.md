@@ -44,3 +44,6 @@
  
 [![](https://visitcount.itsvg.in/api?id=Muhammet-Dobaoglu&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Muhammet-Dobaoglu&label=Profile%20Views&icon=0&pretty=false" />
+</a>
