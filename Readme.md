@@ -42,3 +42,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
  
+[![](https://visitcount.itsvg.in/api?id=mmustafataskiran&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
